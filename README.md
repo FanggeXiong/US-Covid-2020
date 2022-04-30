@@ -4,7 +4,7 @@
 
 In this lab, I created two interactive web maps recording US covid-19 cases and rates in 2020. **Map 1** is a choropleth map of the covid-19 rates and **Map 2** is a proportional symbols map of covid-19 cases. 
 
-### Map 1: US Covid-19 Rate in 2020
+### Map 1: US Covid-19 Rates in 2020
 
 ![](img/map1-rates.png)
 
@@ -12,9 +12,9 @@ This map shows the rate per thousand residents in the US who get Covid in 2020. 
 
 From the map, you can tell that the east and west coast have less rate compare to the middle of the US. States like Colorado and South Dakota have the most serious problem. 
 
-### Map 2: US Covid-19 Count in 2020
+### Map 2: US Covid-19 Counts in 2020
 
-![](img/map2-rates.png)
+![](img/map2-counts.png)
 
 This map shows the total number of covid-19 cases in each county of the US in 2020. You can view the specific case number and location (state and county) by clicking on the area of your choice. 
 
